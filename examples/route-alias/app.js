@@ -43,7 +43,7 @@ new Vue({
   template: `
     <div id="app">
       <h1>Route Alias</h1>
-      <ul>
+      <ul> 
         <li><router-link to="/root-alias">
           /root-alias (renders /root)
         </router-link></li>
